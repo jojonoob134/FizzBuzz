@@ -1,0 +1,15 @@
+public int fitBuzz (int input)
+{
+    if (input % 3 = 0 && input % 5 = 0)
+    {
+        return "fizzbuzz";
+    }
+    else if(input % 3)
+    {
+        return "fizz";
+    }
+    else if(input % 5)
+    {
+        return "buzz";
+    }
+}
